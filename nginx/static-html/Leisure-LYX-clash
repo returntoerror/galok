@@ -1,3 +1,5 @@
+
+
 # HTTP 代理端口
 port: 7890 
 
@@ -28,22 +30,22 @@ secret: ''
 
 
 proxies:
-  - {"name":"v2ray 台湾(移动) [Netflix]","type":"vmess","server":"v3.xn--fiq7vs5ve3c2t1av0lei0e.com","port":26604,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"}}
-  - {"name":"v2ray 台湾(联通) [Netflix]","type":"vmess","server":"v4.xn--fiq7vs5ve3c2t1av0lei0e.com","port":26604,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"}}
-  - {"name":"v2ray 德国(移动) [Netflix]","type":"vmess","server":"v3.xn--fiq7vs5ve3c2t1av0lei0e.com","port":26611,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"}}
-  - {"name":"v2ray 德国(联通) [Netflix]","type":"vmess","server":"v4.xn--fiq7vs5ve3c2t1av0lei0e.com","port":26611,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"}}
-  - {"name":"v2ray 新加坡(移动) [Netflix]","type":"vmess","server":"v3.xn--fiq7vs5ve3c2t1av0lei0e.com","port":26603,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"}}
-  - {"name":"v2ray 新加坡(联通) [Netflix]","type":"vmess","server":"v4.xn--fiq7vs5ve3c2t1av0lei0e.com","port":26603,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"v4.xn--fiq7vs5ve3c2t1av0lei0e.com"}}
-  - {"name":"v2ray 日本(移动) [Netflix]","type":"vmess","server":"v3.xn--fiq7vs5ve3c2t1av0lei0e.com","port":26601,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"}}
-  - {"name":"v2ray 日本(联通) [Netflix]","type":"vmess","server":"v4.xn--fiq7vs5ve3c2t1av0lei0e.com","port":26601,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"v4.xn--fiq7vs5ve3c2t1av0lei0e.com"}}
-  - {"name":"v2ray 美国(移动) [Netflix]","type":"vmess","server":"v3.xn--fiq7vs5ve3c2t1av0lei0e.com","port":26606,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"}}
-  - {"name":"v2ray 美国(联通) [Netflix]","type":"vmess","server":"v4.xn--fiq7vs5ve3c2t1av0lei0e.com","port":26606,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"v4.xn--fiq7vs5ve3c2t1av0lei0e.com"}}
-  - {"name":"v2ray 香港(移动) [Netflix]","type":"vmess","server":"v3.xn--fiq7vs5ve3c2t1av0lei0e.com","port":26607,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"}}
-  - {"name":"v2ray 香港(联通) [Netflix]","type":"vmess","server":"v4.xn--fiq7vs5ve3c2t1av0lei0e.com","port":26607,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"v4.xn--fiq7vs5ve3c2t1av0lei0e.com"}}
-  - {"name":"v2ray 香港HGC(移动) [Netflix]","type":"vmess","server":"v3.xn--fiq7vs5ve3c2t1av0lei0e.com","port":26608,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"}}
-  - {"name":"v2ray 香港HGC(联通) [Netflix]","type":"vmess","server":"v4.xn--fiq7vs5ve3c2t1av0lei0e.com","port":26608,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"}}
-  - {"name":"v2ray 香港HKT(移动) [Netflix]","type":"vmess","server":"v3.xn--fiq7vs5ve3c2t1av0lei0e.com","port":26605,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"}}
-  - {"name":"v2ray 香港HKT(联通) [Netflix]","type":"vmess","server":"v4.xn--fiq7vs5ve3c2t1av0lei0e.com","port":26605,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"}}
+  - {"name":"v2ray 台湾(移动) [Netflix]","type":"vmess","server":"qtehguk4.cn-in.net","port":26604,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"},"ws-opts":{"path":"","headers":{"Host":"ixigua.com"}}}
+  - {"name":"v2ray 台湾(联通) [Netflix]","type":"vmess","server":"qtehguk4.cn-in.net","port":26604,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"},"ws-opts":{"path":"","headers":{"Host":"ixigua.com"}}}
+  - {"name":"v2ray 德国(移动) [Netflix]","type":"vmess","server":"qtehguk4.cn-in.net","port":26611,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"},"ws-opts":{"path":"","headers":{"Host":"ixigua.com"}}}
+  - {"name":"v2ray 德国(联通) [Netflix]","type":"vmess","server":"qtehguk4.cn-in.net","port":26611,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"},"ws-opts":{"path":"","headers":{"Host":"ixigua.com"}}}
+  - {"name":"v2ray 新加坡(移动) [Netflix]","type":"vmess","server":"qtehguk4.cn-in.net","port":26603,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"},"ws-opts":{"path":"","headers":{"Host":"ixigua.com"}}}
+  - {"name":"v2ray 新加坡(联通) [Netflix]","type":"vmess","server":"qtehguk4.cn-in.net","port":26603,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"},"ws-opts":{"path":"","headers":{"Host":"ixigua.com"}}}
+  - {"name":"v2ray 日本(移动) [Netflix]","type":"vmess","server":"qtehguk4.cn-in.net","port":26601,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"},"ws-opts":{"path":"","headers":{"Host":"ixigua.com"}}}
+  - {"name":"v2ray 日本(联通) [Netflix]","type":"vmess","server":"qtehguk4.cn-in.net","port":26601,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"},"ws-opts":{"path":"","headers":{"Host":"ixigua.com"}}}
+  - {"name":"v2ray 美国(移动) [Netflix]","type":"vmess","server":"qtehguk4.cn-in.net","port":26606,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"},"ws-opts":{"path":"","headers":{"Host":"ixigua.com"}}}
+  - {"name":"v2ray 美国(联通) [Netflix]","type":"vmess","server":"qtehguk4.cn-in.net","port":26606,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"},"ws-opts":{"path":"","headers":{"Host":"ixigua.com"}}}
+  - {"name":"v2ray 香港(移动) [Netflix]","type":"vmess","server":"qtehguk4.cn-in.net","port":26607,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"},"ws-opts":{"path":"","headers":{"Host":"ixigua.com"}}}
+  - {"name":"v2ray 香港(联通) [Netflix]","type":"vmess","server":"qtehguk4.cn-in.net","port":26607,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"},"ws-opts":{"path":"","headers":{"Host":"ixigua.com"}}}
+  - {"name":"v2ray 香港HGC(移动) [Netflix]","type":"vmess","server":"qtehguk4.cn-in.net","port":26608,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"},"ws-opts":{"path":"","headers":{"Host":"ixigua.com"}}}
+  - {"name":"v2ray 香港HGC(联通) [Netflix]","type":"vmess","server":"qtehguk4.cn-in.net","port":26608,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"},"ws-opts":{"path":"","headers":{"Host":"ixigua.com"}}}
+  - {"name":"v2ray 香港HKT(移动) [Netflix]","type":"vmess","server":"qtehguk4.cn-in.net","port":26605,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"},"ws-opts":{"path":"","headers":{"Host":"ixigua.com"}}}
+  - {"name":"v2ray 香港HKT(联通) [Netflix]","type":"vmess","server":"qtehguk4.cn-in.net","port":26605,"uuid":"4267cf28-9ae7-357d-9c3c-634c6e84b43c","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-path":"","ws-headers":{"Host":"ixigua.com"},"ws-opts":{"path":"","headers":{"Host":"ixigua.com"}}}
 
 proxy-groups:
 -
@@ -235,7 +237,7 @@ rules:
 
 # China Area Network
 # > Microsoft
-- DOMAIN-SUFFIX,microsoft.com,Domestic
+- DOMAIN-SUFFIX,microsoft.com,Proxy
 - DOMAIN-SUFFIX,windows.net,Domestic
 - DOMAIN-SUFFIX,sfx.ms,Domestic
 - DOMAIN-SUFFIX,sharepoint.com,Domestic
@@ -254,7 +256,7 @@ rules:
 # > Tencent
 #USER-AGENT,MicroMessenger%20Client,Domestic
 #USER-AGENT,WeChat*,Domestic
-- DOMAIN-SUFFIX,qq.com,Domestic
+- DOMAIN-SUFFIX,qq.com,DIRECT
 - DOMAIN-SUFFIX,qpic.cn,Domestic
 - DOMAIN-SUFFIX,tencent.com,Domestic
 # > Alibaba
@@ -349,6 +351,7 @@ rules:
 - DOMAIN-SUFFIX,whatismyip.com,Domestic
 - DOMAIN,ip.bjango.com,Domestic
 # > Other
+- DOMAIN-SUFFIX,tencent.com,DIRECT
 - DOMAIN-SUFFIX,40017.cn,Domestic
 - DOMAIN-SUFFIX,broadcasthe.net,Domestic
 - DOMAIN-SUFFIX,cailianpress.com,Domestic
@@ -801,6 +804,7 @@ rules:
 - DOMAIN-SUFFIX,now.im,Proxy
 - DOMAIN-SUFFIX,redditlist.com,Proxy
 - DOMAIN-SUFFIX,signal.org,Proxy
+- DOMAIN-SUFFIX,linkedin.com,Proxy
 - DOMAIN-SUFFIX,sparknotes.com,Proxy
 - DOMAIN-SUFFIX,streetvoice.com,Proxy
 - DOMAIN-SUFFIX,ttvnw.net,Proxy
@@ -814,9 +818,11 @@ rules:
 - DOMAIN-SUFFIX,wolframalpha.com,Proxy
 - DOMAIN-SUFFIX,x-art.com,Proxy
 - DOMAIN-SUFFIX,yimg.com,Proxy
-
+- DOMAIN-SUFFIX,msftconnecttest.com,DIRECT
+- DOMAIN-SUFFIX,tencent.com,DIRECT
 - DOMAIN-KEYWORD,dlercloud,Proxy
 - DOMAIN-SUFFIX,dler.cloud,Proxy
+- DOMAIN-SUFFIX,ukubf3.com,DIRECT
 
 # Local Area Network
 - DOMAIN-KEYWORD,announce,DIRECT
@@ -879,6 +885,7 @@ rules:
 - IP-CIDR,179.60.192.0/22,Proxy
 - IP-CIDR,185.60.216.0/22,Proxy
 - IP-CIDR,204.15.20.0/22,Proxy
+
 # > Twitter
 - IP-CIDR,69.195.160.0/19,Proxy
 - IP-CIDR,104.244.42.0/21,Proxy
@@ -890,6 +897,7 @@ rules:
 - IP-CIDR,209.237.192.0/19,Proxy
 
 # GeoIP China
-- GEOIP,CN,Domestic
+- GEOIP,CN,DIRECT
+
 
 - MATCH,Others
